@@ -1,0 +1,19 @@
+{
+    "name": "rogerio-pereira/especializati-microservice-common",
+    "description": "Package Files Utils - Course EspecializaTi/MicroServices",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Ferreira",
+            "email": "carlos@especializati.com.br"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RogerioPereira\\EspecializatiMicroserviceCommon\\": "src/"
+        }
+    }
+}
