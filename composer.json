@@ -24,8 +24,7 @@
         "psr-4": {
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/",
-            "RogerioPereira\\EspecializatiMicroserviceCommon\\": "packages/rogerio-pereira/especializati-microservices-common/src/"
+            "Database\\Seeders\\": "database/seeders/"
         }
     },
     "autoload-dev": {
